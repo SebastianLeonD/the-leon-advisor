@@ -38,7 +38,9 @@ A personal AI investing platform: an AI stock advisor over a real portfolio, a l
 
 ## Screenshots
 
-### Dashboard (early version)
+### Dashboard
+<sub>Numbers shown are demo data.</sub>
+
 <img src="images/leon-advisor.png" width="100%" />
 
 ---
